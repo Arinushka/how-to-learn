@@ -1,12 +1,12 @@
 .feinman__link {
-    text-decoration: none;
-    position: absolute;
-    top: 50%;
-    right: 48px;
-    line-height: 51px;
-    font-size: 36px;
-    font-weight: normal;
-    color: #2f80ed;
+  text-decoration: none;
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  color: #2f80ed;
 }
 
 .feinman__link:hover {

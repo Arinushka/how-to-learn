@@ -1,13 +1,13 @@
 .header__link {
-    width: 388px;
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-    text-decoration: none;
-    color: #2f80ed;
-  }
+  width: 388px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #2f80ed;
+ }
 
   .header__link:hover {
-    opacity: 0.5;
-    transition-duration: 1s;
-  }
+   opacity: 0.5;
+  transition-duration: 1s;
+}

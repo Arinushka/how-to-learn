@@ -1,12 +1,12 @@
 .table_theme_dark {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 90px;
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-    justify-content:flex-start;
-    flex-wrap: wrap;
-    position: relative;
-    z-index: 2;
-  }
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 90px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-start;
+  flex-wrap: wrap;
+  position: relative;
+  z-index: 2;
+}
