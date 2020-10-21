@@ -6,10 +6,10 @@
     line-height: 51px;
     font-size: 36px;
     font-weight: normal;
-    color: #000;
-  }
+    color: #2f80ed;
+}
 
 .feinman__link:hover {
   opacity: 0.5;
   transition-duration: 1s;
- }
+}
